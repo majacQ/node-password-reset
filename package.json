@@ -26,7 +26,7 @@
         "express" : "2.5.x",
         "sesame" : "0.1.x",
         "smtp-protocol" : "0.1.x",
-        "request" : "2.9.x"
+        "request" : "2.88.2"
     },
     "engines" : {
         "node" : ">=0.4.0"
