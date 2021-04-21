@@ -19,7 +19,7 @@
     },
     "dependencies" : {
         "pony" : "~0.0.2",
-        "ent" : "0.0.x"
+        "ent" : "0.1.0"
     },
     "devDependencies" : {
         "tap" : "0.1.x",
